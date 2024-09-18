@@ -91,5 +91,7 @@ accuracy = accuracy_score(y_test, pred)
 
 print("Accuracy of the model: ", accuracy)
 
+--adding more data to 5 and data augmentation will give more accuracy
+
 **Observation:**
 - The **accuracy_score** function compares these two arrays and returns the proportion of correct predictions, which is the accuracy of the model. This accuracy score is then stored in the variable accuracy.
